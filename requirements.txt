@@ -5,4 +5,4 @@ scikit-learn
 joblib
 requests
 pyttsx3
-openai
+python-dotenv
